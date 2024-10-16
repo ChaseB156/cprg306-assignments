@@ -13,9 +13,14 @@ export default function Home() {
         <Link href="./week-3/" className="underline text text-emerald-500 hover:text-cyan-400 mb-2 block"> Week 3 Assignment - Shopping List
         </Link>
 
-        <Link href="./week-4/" className="underline text text-emerald-500 hover:text-cyan-400 block">
+        <Link href="./week-4/" className="underline text text-emerald-500 hover:text-cyan-400 mb-2 block">
         Week 4 Assignment - New Item Component
+        </Link>
+
+        <Link href="./week-5/" className="underline text text-emerald-500 hover:text-cyan-400 mb-2 block">
+        Week 5 Assignment - Finished New Item Component
       </Link>
+
 
       </main>
   );
