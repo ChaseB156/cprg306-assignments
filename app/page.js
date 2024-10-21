@@ -19,7 +19,11 @@ export default function Home() {
 
         <Link href="./week-5/" className="underline text text-emerald-500 hover:text-cyan-400 mb-2 block">
         Week 5 Assignment - Finished New Item Component
-      </Link>
+        </Link>
+
+        <Link href="./week-6/" className="underline text text-emerald-500 hover:text-cyan-400 mb-2 block">
+        Week 6 Assignment - Sorting Functionality
+        </Link>
 
 
       </main>
