@@ -25,6 +25,10 @@ export default function Home() {
         Week 6 Assignment - Sorting Functionality
         </Link>
 
+        <Link href="./week-7/" className="underline text text-emerald-500 hover:text-cyan-400 mb-2 block">
+        Week 7 Assignment - Full Interactive Shopping List
+        </Link>
+
 
       </main>
   );
