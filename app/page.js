@@ -33,6 +33,10 @@ export default function Home() {
         Week 8 Assignment - Meal Ideas
         </Link>
 
+        <Link href="./week-9/" className="underline text text-emerald-500 hover:text-cyan-400 mb-2 block">
+        Week 9 Assignment - Firebase
+        </Link>
+
 
       </main>
   );
