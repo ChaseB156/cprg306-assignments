@@ -37,6 +37,10 @@ export default function Home() {
         Week 9 Assignment - Firebase
         </Link>
 
+        <Link href="./week-10/" className="underline text text-emerald-500 hover:text-cyan-400 mb-2 block">
+        Week 10 Assignment - Cloud Firestone
+        </Link>
+
 
       </main>
   );
